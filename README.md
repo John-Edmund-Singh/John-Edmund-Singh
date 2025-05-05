@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif]
+
 <h1 align="center">Hi 👋, I'm John Edmund Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif")
+
 - 👯 I’m looking to collaborate on **OpenCv, Data Science, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
